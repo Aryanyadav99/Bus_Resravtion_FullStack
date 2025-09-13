@@ -14,8 +14,8 @@ Features **JWT authentication, real-time seat booking, MySQL integration, admin 
 ---
 
 ## 📂 Project Repositories
-- 🔗 [Frontend (Flutter)](https://github.com/YourUsername/FrontendRepoLink)  
-- 🔗 [Backend (Spring Boot)](https://github.com/YourUsername/BackendRepoLink)  
+- 🔗 [Frontend (Flutter)](https://github.com/Aryanyadav99/Bus_Mate)  
+- 🔗 [Backend (Spring Boot)](https://github.com/Aryanyadav99/Bus_Mate_Backend)  
 
 ---
 
