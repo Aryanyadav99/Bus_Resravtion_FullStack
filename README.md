@@ -37,8 +37,16 @@ Features **JWT authentication, real-time seat booking, MySQL integration, admin 
 ---
 
 ## 📸 Screenshots (optional)
-- Add UI and API screenshots here later.
-
----
+<img src="images/image1.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image2.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image3.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image4.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image5.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image6.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image7.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image8.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image9.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image10.jpeg" alt="Bus_Mate" width="400"/>
+<img src="images/image11.jpeg" alt="Bus_Mate" width="400"/>
 
 
